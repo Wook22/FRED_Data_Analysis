@@ -1,0 +1,8 @@
+# Ignore sensitive data files
+firstname_lastname_yipitdata/data/retail_sales_fred.csv
+firstname_lastname_yipitdata/data/walmart_revenue.csv
+
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
